@@ -1,5 +1,7 @@
 # Java Socket
 
+[![Build Status](https://travis-ci.org/therickys93/javasocket.svg?branch=master)](https://travis-ci.org/therickys93/javasocket)
+
 This is a Work in Progress...
 
 ## Install using gradle
